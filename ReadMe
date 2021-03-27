@@ -4,3 +4,4 @@ common for both groups.
 L0 is an adjacency list of 1 326 682 sequences (from the pull of 3 790 522) and it contains 3 439 654 adjacent sequences. Adjacency is defeined by LCS distance of less than 3.
 Linv is incerted adjacency list where the adjacency of all 3 439 654 sequnces to the sample of 1 326 682 is shown. The smaller set is used as a reference set defining the nature 
 of these vicinities (the type of adjacent sequences) for a crude image of the graph of mimotopes connected by sequence similarities.
+m7pep files contain the mAb-mimotope database from the query result AdvanceSearch_By_monoclonal antibody(TargetType)+7(LibrarySeqLength)+(all).xml
