@@ -1,1 +1,3 @@
 This project handles the sequencing data for public IgM igome and GBM IgM igome.
+
+L0 is an adjacency list of 1 326 682 sequences (from the pull of 3 439 654) 
