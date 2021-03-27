@@ -1,0 +1,3466 @@
+<result><BiopanningDataSet><Item><BiopanningDataSetID>12</BiopanningDataSetID>
+<Peptides>CWWEWTATC(11)
+CWWEWTIGC(3)
+CWWEWTGAC(2)
+CQFTVWEWC(1)
+CCLGRWCWC(1)
+CWEWSGNGC(1)
+CSWTSLPFC(1)
+CHAWMGLRC(1)
+CFKRSGSLC(1)
+CWRRGYGGC(1)
+CKPWFPELC(1)
+CALMIANSC(1)
+CRLTANLPC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:16705086</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>2OSL,</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>13</BiopanningDataSetID>
+<Peptides>CTRGFEWLC(10)
+CVFYYNWVC(3)
+CVYLYEWVC(2)
+CVYHYRWLC(1)
+CRDRYWPWC(1)
+CEWIYHYWC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:17440057</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>3IU3,</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>57</BiopanningDataSetID>
+<Peptides>TCLWSDLRAQCI
+REKRWIFSDLTHTCI</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:16940148</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>2NY7,</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>3</BiopanningDataSetID>
+<Peptides>SHKLHKV(1)[0.526]
+SHRLPLK(1)[1.350]
+SHRLPAK(1)[1.075]
+SHRLPVK(1)[1.115]</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:17881351</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>4</BiopanningDataSetID>
+<Peptides>HAPRWHL(2)[1.935/2.274]
+HAPRWHW(1)[1.421]
+HAPRYHY(1)[1.656]
+HSPRWHL(1)[2.177]
+HSPRYHM(1)[1.288]</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:17881351</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>20</BiopanningDataSetID>
+<Peptides>CSNSDKPKC(2)
+CYNSDKPKC(1)
+CRNSDKPKC(1)
+CSDSDKPKC(1)
+CWESDKPKC(1)
+CKWSDKPKC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:16988228</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>21</BiopanningDataSetID>
+<Peptides>CFYEMPTRC(5)
+CDHFGMHRC(3)
+CTPTFRANC(1)
+CTSLWALQC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:16988228</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>22</BiopanningDataSetID>
+<Peptides>HMSEYPW(4)
+CMTCLVK(3)
+IRPMVYS(3)
+IRPMVDP(3)
+IVPMVTL(3)
+IRPMVST(2)
+IRPMVYV(1)
+IRPMLPG(1)
+IRPMLPA(1)
+IVPMMPE(1)
+MPHWWYP(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:16229273</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>26</BiopanningDataSetID>
+<Peptides>YHWDPLP(2)
+HPSYPRH(1)
+HPSDPRH(1)
+HHRDPCH(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:17424851</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>28</BiopanningDataSetID>
+<Peptides>CLTPCRNKC(10)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:16759988</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>51</BiopanningDataSetID>
+<Peptides>MMELGRV
+QVWPSSH
+VNPTYGN</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:15684661</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>89</BiopanningDataSetID>
+<Peptides>FHLQSYH(28)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:15528296</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>90</BiopanningDataSetID>
+<Peptides>DLVRVIQ(32)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:15528296</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>91</BiopanningDataSetID>
+<Peptides>TPSASIP(10)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:15528296</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>102</BiopanningDataSetID>
+<Peptides>HPTLLRI(5)
+SLPTLTL(1)
+PVQMPWL(1)
+HAIYPRHH(1)
+HWGMWSY(1)
+ITNDFKQ(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:15162530</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>103</BiopanningDataSetID>
+<Peptides>SILPYPY(3)
+ALWGPTS(1)
+LGTLPSA(1)
+SPKMPIL(1)
+FSYLPSH(1)
+STLFMNF(1)
+SPPNVR(1)
+SAHVLST(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:15162530</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>106</BiopanningDataSetID>
+<Peptides>CLPWSDGPC(5)
+CLPWGTGPC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:15564686</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>107</BiopanningDataSetID>
+<Peptides>CTPEQQFTC(8)
+CTKSPPLQC(4)
+CTPSALASC(3)
+CSWPNTSNC(2)
+CHATHTNYC(1)
+CTSLLRGQC(1)
+CPPMPNTTC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:17037189</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>140</BiopanningDataSetID>
+<Peptides>WGANSPL(1)
+FGQNXYL(1)
+FGSNVHF(1)
+WGQNSFP(1)
+MWGENTP(1)
+APHWGQN(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:9973494</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>142</BiopanningDataSetID>
+<Peptides>CWGSNHAQC(1)
+CFGSNQSQC(1)
+CFGQNAPRC(1)
+CWGQNIKAC(1)
+CWGQNTSMC(1)
+CWGSNNQNC(1)
+CFGENTGYC(1)
+CWGANVPSC(1)
+CFGENNNMC(1)
+CPRSENGVC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:9973494</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>143</BiopanningDataSetID>
+<Peptides>WGSNPAM(2)
+FGENRPA(1)
+WGSNVTS(1)
+WGTNSEV(1)
+WGANTNL(1)
+PYGLLTP(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:9973494</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>145</BiopanningDataSetID>
+<Peptides>CWGENNYMC(1)
+CWGQNNWTC(1)
+CWGANPGLC(1)
+CFGSNDPYC(1)
+CWGSNAEHC(1)
+CWQNVSHSC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:9973494</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>199</BiopanningDataSetID>
+<Peptides>AKIHFYS
+DKIHFKS
+VNKPHFH
+AYIHFLP
+SEIHLMG
+AKIHFHS
+HKPHFPS
+ALQIHTM
+AQIHFLP
+DNPHYTT
+GKPHFTT
+SFHIYFL
+SKIHFHT
+RKPHFTG
+LKLHFNT
+RKIHFHP</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:18642701</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>200</BiopanningDataSetID>
+<Peptides>GKIHFFR(4)
+GYKPTFS(2)
+SKIHFHP(2)
+NKIHFYP(1)
+SKIHFLS(1)
+GKIHFHP(1)
+SKIHFPE(1)
+CKIHFFR(1)
+DKIHFYP(1)
+RYYPYFP(1)
+AKIHFPP(1)
+EKPHFLV(1)
+AKIHFLP(1)
+HKIHFLP(1)
+RKLHFLP(1)
+SKIHFYH(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:18642701</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>220</BiopanningDataSetID>
+<Peptides>CSSKSYRPC(5)
+CNKPKNASC(1)
+CPHLPNSTC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:16581206</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>221</BiopanningDataSetID>
+<Peptides>CTPKKSGRC(2)
+LTPCDSNKSGRC(2)
+TPCSKKSTRNC(1)
+TPCSKKDPRNC(1)
+CRKKNTNNC(1)
+CRKSKSASC(1)
+CTTNSKRKC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:16581206</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>222</BiopanningDataSetID>
+<Peptides>LTPCDPNTNSFC(5)
+CGIPGTPDC(3)
+LTPCDPNTNNFC(1)
+LTPCDINTNSFC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:16581206</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>223</BiopanningDataSetID>
+<Peptides>CKSKKSSSC(5)
+CNKKDPSSC(1)
+TPCSKKNPGNC(1)
+CKSKLVRC(1)
+CESNKSSC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:16581206</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>224</BiopanningDataSetID>
+<Peptides>LTPCDAPPSGIC(9)
+CGRTRVTRC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:16581206</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>225</BiopanningDataSetID>
+<Peptides>CFATVERAC(7)
+CLLTVERAC(1)
+LTPCDSDWPVSC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:16581206</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>226</BiopanningDataSetID>
+<Peptides>CPPPKKGNC(1)
+LTPCDT(1)
+CKSKKSSAC(1)
+CERILWVVC(1)
+CNIRNAYTC(1)
+LTPCDRNTMVIC(1)
+LTPCDPNTSNFC(1)
+CCTNILVVC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:16581206</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>227</BiopanningDataSetID>
+<Peptides>CTKKKSSSC(1)
+CRKKISTIC(1)
+CRKKNPSNC(1)
+LTPCDKKYYGCC(1)
+LTPCDTNTYYCC(1)
+CRPNKKNAC(1)
+LTPCDT(1)
+TPCSPKKKGSC(1)
+CRKS(1)
+CCDSKYYLRC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:16581206</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>228</BiopanningDataSetID>
+<Peptides>TPCSTIYNDDC(3)
+CNNIYNDDC(3)
+CRTITNDKC(1)
+CPSIYNDDC(1)
+CTKKGPRNC(1)
+LTPCDTRDLVVC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:16581206</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>229</BiopanningDataSetID>
+<Peptides>CFNSTNDPC(2)
+CFNATNDPC(2)
+CPKSKSSRC(1)
+CTPKKNRAC(1)
+TPCSKKRSISC(1)
+CLTPLNDPC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:16581206</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>230</BiopanningDataSetID>
+<Peptides>TPCSTLINIFC(3)
+CFK(2)
+CRTKKTGSC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:16581206</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>231</BiopanningDataSetID>
+<Peptides>TPCSPKRKANC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:16581206</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>232</BiopanningDataSetID>
+<Peptides>LTPCDNY(5)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:16581206</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>233</BiopanningDataSetID>
+<Peptides>CVLKKNRPC(3)
+CLP(2)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:16581206</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>234</BiopanningDataSetID>
+<Peptides>LTPCDAERSGYC(1)
+LTPCDAPTFGSC(1)
+LTPCDPHFLDDC(1)
+LTPCDLRTSGYC(1)
+CRSKRIRNC(1)
+TPCILLSIGFC(1)
+CTTKRTPRC(1)
+LTPCDLRPFWFC(1)
+CRNSKSPNC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:16581206</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>286</BiopanningDataSetID>
+<Peptides>CQFSAQSRC
+CLATSGQPC
+CTNQPRSFC
+CQPHPYYMC
+CSLSLTRHC
+CLTNSYNTC
+CSEMRLALC
+CPEHNLRFC</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:15788194</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>298</BiopanningDataSetID>
+<Peptides>CEHGAMEIC
+CGGGRPASC
+CHLGVEHLC
+CEEKEPERC</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:15707681</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>310</BiopanningDataSetID>
+<Peptides>CSISTHSWC[3.32]
+CYGNWFSNC[2.65]</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:14736416</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>311</BiopanningDataSetID>
+<Peptides>CNYKTHSWC[3.76]
+CNYSVAHLC[3.76]
+CKWSVAHLC[2.12]
+CSIKTHSWC[NT]</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:14736416</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>329</BiopanningDataSetID>
+<Peptides>QHWLAQR(1)
+QHWAIHN(1)
+QHWAHSM(1)
+EHWTWPV(1)
+WHWTSAT(1)
+WHLTKPT(1)
+APWAWYP(1)
+LAPWNSD(1)
+FHFTRLD(1)
+HHWVMSD(1)
+HHWASSN(1)
+HHWTSSN(1)
+THWASLR(1)
+THWAHDS(1)
+THWTGDP(1)
+SHIYRTS(1)
+NHWASAEPLDVV(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:15914189</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>331</BiopanningDataSetID>
+<Peptides>STALPGL(6)
+TATTWTG(2)
+TWHDFPL(1)
+GKWAPLF(1)
+SALFMTP(1)
+IPLNTTM(1)
+VQGPWPM(1)
+WVQTPLT(1)
+SAQDWWQ(1)
+RPPAIYP(1)
+TVEHTPF(1)
+NISNEVY(1)
+SHMFATP(1)
+ELARQNP(1)
+VDLLPRE(1)
+TMLLPTK(1)
+FPWHTQS(1)
+NHSKAFW(1)
+APERSPQ(1)
+KLVTPSS(1)
+NGLRLVT(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:15914189</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>334</BiopanningDataSetID>
+<Peptides>MSPRATI(6)
+KLMTHWP(1)
+GLSLPPG(1)
+LPDTLSS(1)
+QPPLTLN(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:16916959</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>501</BiopanningDataSetID>
+<Peptides>CGRTRVTSC(2)
+CGRTRDN(2)
+CRNPKKATC(2)
+CSTKRKPNC(2)
+CAREVTLLC(1)
+CSREVTLLC(1)
+CDTTIANCC(1)
+CDRILSPSC(1)
+CTPKKSGRC(1)
+CTTSSLTDC(1)
+CGSNSLTPC(1)
+CCKSLRPHC(1)
+CTKPKRNNC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:19121687</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>502</BiopanningDataSetID>
+<Peptides>CGRTRVTSC(4)
+CAPRSSNRC(3)
+CAREVTLLC(2)
+CGRTRDN(1)
+CAPQ(1)
+CLLLAQTDC(1)
+SKKIPTC(1)
+CLGRISPPC(1)
+CASNSLTPC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:19121687</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>504</BiopanningDataSetID>
+<Peptides>CLGRVLANC(3)
+CPYPRKGSC(2)
+CVPKKNRTC(2)
+CGRTRVTSC(2)
+CGRTRDN(1)
+CRFLRRTVC(1)
+CRGRTHPLC(1)
+CDTKKNHCC(1)
+CNICARQYC(1)
+CVRNSLTPC(1)
+CRGRTLHLC(1)
+CRGRTHPRC(1)
+CSYVGKGSC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:19121687</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>505</BiopanningDataSetID>
+<Peptides>CGRTRVTSC(2)
+CGRTRDN(2)
+CAREVTLLC(2)
+CGAESLTPC(2)
+CFTVARACC(2)
+CGPKRKATC(1)
+CSGLLVANC(1)
+CSKKNPGNC(1)
+CGSESLTPC(1)
+CCKSLRPHC(1)
+CAKTRTAKC(1)
+CRTKKSGTC(1)
+CKTRKSGSC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:19121687</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>526</BiopanningDataSetID>
+<Peptides>KHLPLYR(10)
+KHNWPPP(8)
+FHEPKYR(7)
+GHIAKYR(6)
+GHLWKYV(2)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:18725193</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>594</BiopanningDataSetID>
+<Peptides>CSSAFYPKC(8)
+CTRQPDRSC(1)
+CTLQPDRSC(1)
+CSLQPDRSC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:19290051</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>603</BiopanningDataSetID>
+<Peptides>MAHRHPQ(2)
+AFHGPVH(2)
+GTTVIAR(1)
+YQDSAKT(1)
+DWPLQKL(1)
+NSFAPQT(1)
+KTGHTSS(1)
+KGHSLMP(1)
+TIPSPKP(1)
+KVSMNSS(1)
+NRLGSTG(1)
+LVQPHTR(1)
+STEIELY(1)
+QHSEGAL(1)
+NTPNLWN(1)
+STSVLYN(1)
+SYNQAYP(1)
+NNVQLPN(1)
+THDHLPN(1)
+IPTLPSS(1)
+QLPGRSG(1)
+HAIYPRH(1)
+HYRFDLT(1)
+LPLTPLP(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:19275099</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>604</BiopanningDataSetID>
+<Peptides>CEPYYPSYC(11)
+CTSYYPSYC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:19857112</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>605</BiopanningDataSetID>
+<Peptides>CQAYYPSYC(6)
+CPTWYPKSC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:19857112</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>629</BiopanningDataSetID>
+<Peptides>FDYSKHV(17)
+AYDTEYV(3)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:19811418</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>644</BiopanningDataSetID>
+<Peptides>KIELPSL(10)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:19923010</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>646</BiopanningDataSetID>
+<Peptides>NHLNGSY(8)
+SILPYPY(1)
+NHKKGQQ(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:19923010</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>647</BiopanningDataSetID>
+<Peptides>TYWSPTP(4)
+WHVPFSL(1)
+TWAWRTP(1)
+WHPLLSP(1)
+WHLPRVI(1)
+WHLPWLE(1)
+RNVPPML(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:19923010</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>648</BiopanningDataSetID>
+<Peptides>YVTKIAS(5)
+EFNAARL(2)
+EFNPSNL(2)
+FKASLLH(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:19923010</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>649</BiopanningDataSetID>
+<Peptides>TENPFPE(3)
+QFNPFPE(2)
+WENPYPE(2)
+YYNPYPE(1)
+TYNPFPE(1)
+AFNPFPE(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:19923010</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>651</BiopanningDataSetID>
+<Peptides>AHGYWEL(10)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:19923010</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>652</BiopanningDataSetID>
+<Peptides>HHGYWEL(10)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:19923010</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>716</BiopanningDataSetID>
+<Peptides>HDIYPRH(1)
+THRLLL(1)
+MPHIHRH(1)
+HPRPRNN(1)
+QGHIGNE(1)
+SPPQSRA(1)
+APPXSPT(1)
+YPXPPLX(1)
+RQGGQYP(1)
+QRATPFP(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:17630779</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>735</BiopanningDataSetID>
+<Peptides>ATWLPPR[1.01]
+NPRALNY[0.54]
+ANLFKAK[0.54]
+YHSSFQA[0.57]
+ILDNYKL[0.65]
+LPPNPTK[0.96]
+YAIMPLV[0.71]</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:10747021</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>780</BiopanningDataSetID>
+<Peptides>MVLWGMH(7)
+QWIFGMS(1)
+EQWLGMS(1)
+EALYGMS(1)
+QWLYGMS(1)
+AIAPFFA(1)
+PHLPMQS(1)
+SIASLSR(1)
+SDSSTLN(1)
+HTTQHRL(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:11275260</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>836</BiopanningDataSetID>
+<Peptides>KPGEMR(3)
+CDTLKPGEC(3)
+CNKPGERTC(2)
+CADQKPGEC(2)
+CYKPGEWAC(1)
+CKPGEVQQC(1)
+CKPVENRAC(1)
+KPGEMRGAA(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:11468163</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1089</BiopanningDataSetID>
+<Peptides>CPVDFDFLC
+CPRDFEFLC
+CPADFEFLC</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:12446478</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1090</BiopanningDataSetID>
+<Peptides>CPSVDGGWTC
+CKSMDGGWTC
+CHSACSKHCFVHC</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:12446478</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1091</BiopanningDataSetID>
+<Peptides>CTWHWSPEEC</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:12446478</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1092</BiopanningDataSetID>
+<Peptides>CPSVDGGWTC
+CHSACSKHCFVYC
+CHSACSKHCFVHC</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:12446478</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1093</BiopanningDataSetID>
+<Peptides>CRPWGSSRC
+CKSWGSSRC
+CNLYKVGC
+CHPYKVGC</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:12446478</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1094</BiopanningDataSetID>
+<Peptides>CSVYPFWHC</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:12446478</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1095</BiopanningDataSetID>
+<Peptides>CRSYPFWMC
+CVSYPFWKC
+CAVFPFWRC
+CVWWWGC
+CAPWWGC</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:12446478</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1096</BiopanningDataSetID>
+<Peptides>CSGIAPWLC
+CGPGIDSWVC
+CGPGIRSWVC
+CDYMPLVDNC</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:12446478</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1097</BiopanningDataSetID>
+<Peptides>CEGIAVWLC
+CTRYSGYWVC
+CTQMNGYWIC
+CLYDHLC
+CILLYNDCC</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:12446478</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1098</BiopanningDataSetID>
+<Peptides>CFFGNWNFC</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:12446478</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1099</BiopanningDataSetID>
+<Peptides>CWNWNLHISC
+CYFKNWNFC
+CVRSCISDCELRC</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:12446478</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1178</BiopanningDataSetID>
+<Peptides>LPPSIPR(11)
+NLRPSIP(9)
+LLPSIPF(7)
+LIPSITW(3)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:12474050</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1196</BiopanningDataSetID>
+<Peptides>WLQDITL(1)
+IDQDITV(1)
+QQDITVH(1)
+QDITLRP(1)
+HIRRILL(2)
+YPMIISP(1)
+ENGADVD(1)
+VHPPPFL(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:9598980</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1197</BiopanningDataSetID>
+<Peptides>IQDITLS(1)
+RQDITLV(1)
+GHTQDIT(1)
+QDITLFN(4)
+QDITMFV(2)
+MQNITLF(1)
+QNITLSQ(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:9598980</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1198</BiopanningDataSetID>
+<Peptides>LTLPEVA(1)
+APLPEVL(1)
+HLPEVSP(1)
+FLPEVLL(1)
+YLPEVIS(1)
+YLPEVLP(1)
+YLPEVQP(2)
+FLPDVAS(1)
+FLPDVLS(1)
+YLPQVAS(1)
+LTDVRTP(1)
+TTNDFTR(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:9598980</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1199</BiopanningDataSetID>
+<Peptides>ILPEVVS(1)
+TLPEVLS(1)
+QLPEVSS(1)
+ALPEVLS(1)
+MLPEVLP(1)
+LELPEVM(1)
+VLQEVSS(1)
+AFPSPTL(1)
+AYTSAHK(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:9598980</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1208</BiopanningDataSetID>
+<Peptides>RQLVQPL(1)
+SPAPSDS(1)
+SSQSDPA(1)
+SKPTQLH(1)
+GTATSPH(1)
+SHLGFDD(3)
+TSDTGWR(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:10076823</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1237</BiopanningDataSetID>
+<Peptides>KGHSLMP(1)
+IPTLPSS(1)
+GTTVIAR(1)
+QHSEGAL(1)
+YQDSAKT(1)
+KVSMNSS(1)
+LVQPHTR(1)
+MAHRHPQ(1)
+QLPGRSG(1)
+HAIYPRH(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:20529562</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1285</BiopanningDataSetID>
+<Peptides>YLCKFGC(1)
+SPDELHK(2)
+REPLVYW(1)
+AEPIIYW(2)
+KQPIVFW(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:20844088</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1287</BiopanningDataSetID>
+<Peptides>AHPWWLG(4)
+SHPWYLG(2)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:20652782</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1288</BiopanningDataSetID>
+<Peptides>AWPDKQP(1)
+SWPDKMP(1)
+ILSDKMA(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:20652782</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1308</BiopanningDataSetID>
+<Peptides>CEKLKHSMC(10)
+CTKTWQSMC(2)
+CMSLLGHKC(1)
+CKHGLLSMC(1)
+CMSQDGHTC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:21118490</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1323</BiopanningDataSetID>
+<Peptides>GALTPLR(1)
+SYTPLRP(1)
+GFTPHRS(1)
+AIETLIR(1)
+NYYTPHR(1)
+HTQTRHR(1)
+NDLTPLR(1)
+SPFTPHR(1)
+SYTPHRT(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:18400009</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1333</BiopanningDataSetID>
+<Peptides>CKTLDKWAC(4)
+CMALDKWAC(2)
+CWHLDKWAC(2)
+CWTLDKWAC(1)
+CLVLDKWAC(1)
+CLRLDKWAC(1)
+CVSLDKWAC(1)
+CLGNDKWAC(1)
+CDKWAPPTC(5)
+CDKWAGLLC(4)
+CDKWAPTSC(3)
+CDKWALAYC(2)
+CDKWAPRSC(1)
+CDKWAVRWC(1)
+CDKWAPPSC(1)
+CDKWAEQYC(1)
+CDKWASQPC(1)
+CDKWAFMTC(1)
+CDKWAPPGC(1)
+CDKWAPSAC(1)
+CDKWAPSWC(1)
+CDKWAQTYC(1)
+CDKWATRFC(1)
+CDKWAGRAC(1)
+CDKWAGPRC(1)
+CDKWAPRQC(1)
+CDKWAIPWC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:21237206</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1366</BiopanningDataSetID>
+<Peptides>STSVLYN
+THHHLPN
+AFHGPVH
+LPLTPLP</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:21362346</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1373</BiopanningDataSetID>
+<Peptides>VPQQKFR(2)
+HSQISSY(1)
+QPTHQLT(1)
+QHQLPSD(1)
+SLLSTPQ(3)
+LRPTLSC(1)
+LPMRPIV(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:12970876</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1424</BiopanningDataSetID>
+<Peptides>DHQRFFV(5)
+AHQASFV(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:11292756</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1425</BiopanningDataSetID>
+<Peptides>SHVPNAF(23)
+SHAPNAF(6)
+SHVPDAF(4)
+SHVHNAF(2)
+SHAPSAF(1)
+SHVPHAF(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:11292756</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1426</BiopanningDataSetID>
+<Peptides>CTGPGSWFC(6)
+CTSPGPWFC(2)
+CTAPGAWFC(1)
+CTTPGPWFC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:11292756</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1427</BiopanningDataSetID>
+<Peptides>VVSTGSH(5)
+IPMKGHW(1)
+LPMKYQA(1)
+HWGMWSY(1)
+ALSSDPH(1)
+DPRLSAL(1)
+KPSTLML(1)
+YHWYTSP(1)
+LFMPATP(1)
+ALLPWTD(1)
+SPPPPPI(1)
+SHAPYTH(1)
+NQDVPLF(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:11292756</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1428</BiopanningDataSetID>
+<Peptides>MELQTRS(5)
+LPMKYQA(5)
+NTLQPSP(2)
+YMTPFSP(2)
+LHAQSRS(1)
+YHLQPTP(1)
+HFMEPVN(1)
+LSTPSLL(1)
+ITAARLP(1)
+SIDNPLP(1)
+SIITGYL(1)
+AYSMLGH(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:11292756</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1488</BiopanningDataSetID>
+<Peptides>FHENWPS(5)[15.708 ± 7.915]
+GPLYHTP(2)[26.697 ± 9.371]
+WSLDPHR(1)[5.454 ± 1.617]</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:11479280</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1541</BiopanningDataSetID>
+<Peptides>CWPSMRDHC
+CTYSPRDMC
+CRDHFSTHC
+CRDHYPLSC
+CKDHATDLC
+CISPNQWLC
+CTSPNQWLC
+CLDAKLQQC
+CPNFELHWC
+CPPYETWWC
+CNVYEAYWC
+CTDFEGMLC</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:21695105</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1542</BiopanningDataSetID>
+<Peptides>CWYSTRDHC
+CRDHYDQMC
+CRDHSDLWC
+CRDHLYGSC
+CKDHATDLC
+CWALRDPLC
+CNALNQWLC
+CRTSNQWLC
+CTALQQWLC
+CLDAKLQQC
+CQMPHWWHC
+CQVPHFFGC</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:21695105</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1545</BiopanningDataSetID>
+<Peptides>CWLPLTRLC
+CWHPLQWRC
+CLEILSWLC
+CNQVLSWLC
+CILPWKHIC
+CVLPWSHVC
+CFLPHPSRC</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:21695105</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1563</BiopanningDataSetID>
+<Peptides>CSWLHQPYC(13)[23.18 ± 1.16][10.90 ± 0.95]
+CSWFHMPYC(3)[NT][NT]
+CSWDHMPYC(2)[NT][NT]
+CRDYAMPLC(2)[61.87 ± 1.26][36.25 ± 6.85]
+CKTDPWDYC(2)[NT][NT]
+CSWVHMPYC(1)[NT][NT]
+CSWMHMPYC(1)[105.2 ± 1.56][184.36 ± 18.45]
+CNTIGGYEC(1)[9.64 ± 1.15][23.73 ± 2.09]
+CLTIGGYEC(1)[NT][NT]
+CRTLGGYEC(1)[NT][NT]</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:11923297</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1564</BiopanningDataSetID>
+<Peptides>CSWVHMPYC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:11923297</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1565</BiopanningDataSetID>
+<Peptides>CSWLHMPYC(4)[26.12 ± 1.12][18.76 ± 2.63]
+CSWDHNPYC(2)[NT][NT]</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:11923297</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1566</BiopanningDataSetID>
+<Peptides>CSWLHQPYC(18)[23.18 ± 1.16][10.90 ± 0.95]
+CSWMHMPYC(4)[105.2 ± 1.56][184.36 ± 18.45]
+CSWFHMPYC(3)[NT][NT]
+CNTIGGYEC(2)[9.64 ± 1.15][23.73 ± 2.09]</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:11923297</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1567</BiopanningDataSetID>
+<Peptides>SEPVAML(9)
+LPPNPTK(7)
+NLPRLYE(3)
+TYWYMTP(2)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:11923297</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1650</BiopanningDataSetID>
+<Peptides>SWGPFPF(4)
+SWGPLPF(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:10427007</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1669</BiopanningDataSetID>
+<Peptides>YRTNHHYDVGRFAARGRRD(1)
+NGRSSMNWRSQEITRYTSEHHYRMAFL(1)
+PEQYDHHHLEARRRASSTRQVRARARR(1)
+RAYTPHHHAEGRLVRLEPHPAPYKNRT(1)
+YYVKNRLHHHRLARLVAAEHAHRLRVQ(1)
+NKRNLSYPWSHHHQVARRTHMRAQHTM(1)
+RPTKNFEAEVVRSTGPMHHHDTAKQRY(1)
+DFLTYNKSMGGRPTNFRHHHSSVVQSQ(1)
+DEPEVVGRVLGERPAGALADHHHMMKW(1)
+EVLHGHHHVVARVRASCTGPTRRASCA(6)
+HVYEKANNRLGHKHHHLAARRRSKSWN(1)
+SNKGFSWRKKGMAVTPNRHLHHHMVAH(1)
+TNHRHHHGVLERRQDILTGSLIEHKH(1)
+ILKRLREQHRHHHAAAHHVRVRRRGRH(1)
+NYTTRRAEWNRQDAHRHHHQEARRGAL(3)
+SKKDNAVGLQELRLREGHRHHHDVMLT(1)
+KKVRGHHRHHHQVALLDAAERGPGRMS(1)
+GIHHHHAMAVLAELGMNPMGFALPDMW(1)
+AGVHHHHDAARGGTRSRRSTPRSATRR(1)
+TMNWHHHHENGLRARMYDAGRR(1)
+KVRRDVMRWHHHHRMARRKANR(4)
+RVQDRLGHRAVQPVLHHHHQAARRRVR(1)
+AALHHHHHDAGRASAMRRPGTPATSWR(1)
+DGHPERHDAGDHHHHHGVRQWRLISTG(20)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:15980016</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1677</BiopanningDataSetID>
+<Peptides>CASVISEREC(1)
+EEYLVSEYVM(1)
+RQYLISEYEH(1)
+LQRLISEQMF(1)
+IVRLLSEYHM(1)
+EEYLLSEYVM(1)
+MQNLISEHEL(1)
+TMDLIPEHYM(1)
+EQKLISEEDL(1)
+DMMLISEKEL(1)
+FQALIAEEEL(1)
+QRVLISEFWL(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:12203838</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1745</BiopanningDataSetID>
+<Peptides>QTAVDDAEAAAKCRHCI
+QDETRSAVDSIPQAHCS
+GLKNCTVQPWDATDVCD
+QISAVS
+LPAQPNACWPTMTPLCA
+YVGSQSEDRDMSCGHCS
+QQNDLLVYSAVPLSDCK
+ASAAEGDD</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:10456916</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1832</BiopanningDataSetID>
+<Peptides>SCQLEGSRLRCP
+QCKLEGSRLRCV
+QCALEGARIRCS
+QCTMDQGRLRCR
+GCITEQGRSRCI
+SCKLEGSRLRCP
+TCATDQGRLRCT
+HCFHDQGRVRCA
+TCEMTQGRLRCV
+ACRSDQGRARCT
+NCTLEGTRFRCS
+RCKPDQGRLRCG
+SCMKDPSSPRCL
+HCTMDQGRLRCR
+SCMLDQGRSRCR
+TCRQTLTPAVCH
+QCQEDQGRRRCS</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:21763377</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1845</BiopanningDataSetID>
+<Peptides>QDEERVSSCPKVAWTFC
+NCNKNDHLFACW
+ECKSDWMPPYCP
+ECTQKYDWLFCM</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:21872636</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1886</BiopanningDataSetID>
+<Peptides>CLANFTPHC
+CLFNFDPTC
+CLKNWNPHC
+CLLNCNPQC
+CLLNFSPYC
+CLLNWDPQC
+CLLNWNPHC
+CLLNWTPHC
+CLMNWTPHC
+CLPNWNPHC
+CLPNWTPQC</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:22048717</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1907</BiopanningDataSetID>
+<Peptides>WHWRLPS(10)
+LHHKTHH(2)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:22171803</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1909</BiopanningDataSetID>
+<Peptides>CNLSSSWIC(9)
+CNSGMFVRC(3)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:22171803</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1910</BiopanningDataSetID>
+<Peptides>QWTWTQY(4)
+DTLPLFI(1)
+MSLQQEH(1)
+ANTTPRH(1)
+MDAHHAL(1)
+ITAPHPH(1)
+QRNQTQD(1)
+QWNRTQY(1)
+NTAPHPH(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:22171803</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1912</BiopanningDataSetID>
+<Peptides>CPLHARLPC(10)
+CSLASLPAC(2)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:22171803</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1928</BiopanningDataSetID>
+<Peptides>CHMRNTIHC(1)
+CHSSLLNPC(1)
+CNSKLHAFC(1)
+CYNPRLHIC(1)
+CMEPKSRYC(1)
+CSNRMATTC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:22249604</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1947</BiopanningDataSetID>
+<Peptides>QEINSSY[0.65 ± 0.02]
+SHPRLSA[0.72 ± 0.05]
+SMPNPMV[0.69]
+GLQQVLL[0.79 ± 0.04]
+HELSVLL[0.63 ± 0.04]
+YAPQRLP[0.58]
+TPRTLPT[0.51 ± 0.03]
+APVHSSI[0.45 ± 0.02]
+APPHALS[0.59]
+TFSNRFI[0.40 ± 0.02]
+VVPTPPY[0.76 ± 0.06]
+ELAPDSP[0.59]</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:22363498</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1990</BiopanningDataSetID>
+<Peptides>CNNWNMPLC
+CNNRNMPLC
+CNNYNMPLC
+CNNQNMPLC
+CNNWKMPLC
+CNNSHMPLC
+CKNSXQPLC
+CNNSXMPLC
+CQNSHMPLC
+CNNSNMPLC
+CNNSKMRLC
+CDWAPHFTC </Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:22508944</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1991</BiopanningDataSetID>
+<Peptides>CTSYNEPLC
+CNLYNEPLC
+CNLYNEPFC
+CTVFNEPFC</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:23006741</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>1992</BiopanningDataSetID>
+<Peptides>CQLKWPFEC
+CKPTWPFEC
+CSNSWPHEC
+CCDDWPHEC
+CQTSYPYEC
+CWYDSLIFC</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:23006741</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>2014</BiopanningDataSetID>
+<Peptides>GPGTWRA
+GPGTWRT
+GPGTYRA
+GHGTFRA
+GEGTWRA
+GPLTWRA
+GPSTWRA
+GPNTWRS
+GPYTWRS</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:22869370</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>2088</BiopanningDataSetID>
+<Peptides>CISPDAHSC(9)
+CTLSHTRTC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:23128437</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>2180</BiopanningDataSetID>
+<Peptides>KGHSLMP
+IPTLPSS</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:23313229</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>2272</BiopanningDataSetID>
+<Peptides>CWASNPSLC(1)
+CPYSNPSLC(1)
+CPFANPSTC(1)
+CNFSNPSLC(3)
+CEHSNPSLC(1)
+CWAANPSMC(1)
+CPFSNPSMC(1)
+CPYANPSLC(1)
+CSWANPSQC(1)
+CMFSNPSLC(1)
+CPFANPSMC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:16223774</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>2273</BiopanningDataSetID>
+<Peptides>WPRWLEN(9)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:16223774</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>2292</BiopanningDataSetID>
+<Peptides>CRMSRRSNC
+CMRNRPKRC
+CRRRLNRTC
+CRMRIRRNC
+CHPHPRPRC</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:20428769</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>2344</BiopanningDataSetID>
+<Peptides>FSDHWVN(6)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:24145794</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>2345</BiopanningDataSetID>
+<Peptides>CRGATPMSC(1)
+CSEGLLNTC(1)
+CVQMPAHSC(1)
+CPNSTHRNC(1)
+CMHTHSRMC(1)
+CNTGSPYEC(1)
+CFSGMSTDC(1)
+CDASRPATC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:24145794</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>2384</BiopanningDataSetID>
+<Peptides>WNNWQPQ(4)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:24096567</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>2385</BiopanningDataSetID>
+<Peptides>CWNNWQPQC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:24096567</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>2461</BiopanningDataSetID>
+<Peptides>CHLGYPGRC[0.656 ± 0.032]
+CHYSYPGVC[0.811 ± 0.045]
+CHLNYPGYC[0.846 ± 0.152]
+CHLRYPGEC[1.087 ± 0.105]
+CYKGYPGYC[0.293 ± 0.009]</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:24497417</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>2526</BiopanningDataSetID>
+<Peptides>IWAADWV
+IWQWEWL
+VWSVEWV
+PWMGPEW</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:17113859</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>2527</BiopanningDataSetID>
+<Peptides>LWKFMGR
+IWRWAYF</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:17113859</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>2528</BiopanningDataSetID>
+<Peptides>IWLQRRH
+LYLQRLR
+MWLQSVH
+YWLQTVR
+LWLMKAR</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:17113859</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>2534</BiopanningDataSetID>
+<Peptides>ISLLQAR
+IDLMQAR
+IILLQAR
+IELLQAR
+ISLLGAR
+FSLLDAR
+IFLLWQR
+FAQLDWH</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:10667600</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>2538</BiopanningDataSetID>
+<Peptides>EIAPQGPSKCLLYAYCQ[13]</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:9122216</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>2724</BiopanningDataSetID>
+<Peptides>SLDSDRS(3/50)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:24819195</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>2779</BiopanningDataSetID>
+<Peptides>CPFPSPTWC[2.95 ± 0.07]
+CFGLPSWAC[3.39 ± 0.28]
+CNGFPSWC[3.34 ± 0.1]
+CLGRPLWAC[3.17 ± 0.06]
+CPHYSTLLC[4.07 ± 0.1]</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:25154906</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>2858</BiopanningDataSetID>
+<Peptides>NALWMPT(1)[+++]
+SANMPTN(1)[+++]
+YLGLTPM(1)[++]
+NRLWMPS(1)[++]
+NKVWPPS(1)[++]
+TSYTGPA(1)[++]
+NKAWFPN(1)[+]</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:11750040</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>2883</BiopanningDataSetID>
+<Peptides>NPPKWPR(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:25520269</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>2891</BiopanningDataSetID>
+<Peptides>GIIIPHQ[0.95 ± 0.04]
+MIPHDEN[1.16 ± 0.04]
+VHALVPH[0.85 ± 0.05]
+FSLIPHS[1.01 ± 0.09]
+ISLIPHT[1.03 ± 0.08]
+FVPHANK[0.95 ± 0.04]
+IMPLWPH[0.84 ± 0.04]
+LIPHDSL[1.19 ± 0.02]
+LNPNKLI[0.81 ± 0.05]
+WNLVPHT[0.88 ± 0.04]</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:25741007</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>2892</BiopanningDataSetID>
+<Peptides>KLAPHAN[1.07 ± 0.13]
+GLKLYQS[1.68 ± 0.06]
+FKLYMEP[1.63 ± 0.04]
+VKLYMTF[1.81 ± 0.04]
+VHALYLQN[0.96 ± 0.02]
+LDPARF[1.09 ± 0.15]
+GNLFMTL[1.43 ± 0.07]
+VKLFMSTL[1.73 ± 0.05]
+RDAVRPF[1.25 ± 0.03]</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:25741007</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>2919</BiopanningDataSetID>
+<Peptides>GWSLSTV[1.57 ± 0.05]
+WRDNAIA[1.69 ± 0.06]
+WNLNTTN[1.72 ± 0.05]
+WNLNHIF[1.53 ± 0.07]
+WSQTTVS[1.57 ± 0.04]
+WGENTIW[1.16 ± 0.03]
+FNLNTAM[1.43 ± 0.07]
+WNSNAIS[1.55 ± 0.09]
+AWNFNSQ[1.48 ± 0.05]
+WNFTARE[1.15 ± 0.02]
+WNQNTAS[1.73 ± 0.04]
+WTYTTFE[1.17 ± 0.03]
+WSQTTVS[1.37 ± 0.05]
+WNQNTVS[1.76 ± 0.07]
+WNSNAIS[1.30 ± 0.05]</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:26289074</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>2930</BiopanningDataSetID>
+<Peptides>APAIPAS(20/25)
+APALPAS(1/25)
+APSIPAS(1/25)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:26172085</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>2994</BiopanningDataSetID>
+<Peptides>GMVQTIF(8/16)
+CMTCLLA(2/16)
+GMVQTIW(2/16)
+AAISGWW(1/16)
+CMTCLLR(1/16)
+CMTCLIR(2/16)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:26695281</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>3019</BiopanningDataSetID>
+<Peptides>CNLSSSWIC(5)
+CPSSQRFFC(2)
+CLNSLSRHC(1)
+CSLNSDLFC(1)
+CTSATSNSC(1)
+CVQSNPLSC(1)
+CSNNLLHNC(1)
+CRPLSFGHC(1)
+CSSNLPLSC(1)
+CSSHSWRLC(1)
+CLPALTRSC(1)
+CTQLARSAC(1)
+CLAPQSHRC(1)
+CSPNAPNSC(1)
+CHGPVSRSC(1)
+CSMLSVAAC(1)
+CSQWSPHRC(1)
+CQATLHLGC(1)
+CPSVPHAHC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:27313992</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>3055</BiopanningDataSetID>
+<Peptides>CSSAGSLFC</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:27556860</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>3062</BiopanningDataSetID>
+<Peptides>CKNPTTGTC(14)
+CGVHSQSSC(9)
+CSSSPYAWC(6)
+CWSSFRDEC(4)
+CNTPMQRSC(3)
+CSLRGHDLC(2)
+CTKHTLSIC(2)
+CKSTPTNGC(1)
+CPPSKYHLC(1)
+CPQHFKTFC(1)
+CITTPGFLC(1)
+CGEASSPRC(1)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:27579674</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>3104</BiopanningDataSetID>
+<Peptides>CLGTTPFFC(4)[1.52, 16.9]
+CLYHPWNNC(3)[1.41, 20.1]
+CTGTTPFYC(3)[1.64, 12.6]
+CRGSMPFWC(3)[1.38, 18.4]
+CMARYMSAC(2)[1.59, 13.2]</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:27874102</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>3167</BiopanningDataSetID>
+<Peptides>ADGIVGW(3105)
+LAAGAVW(3039)
+SAGFAME(2944)
+VSLCSSR(2925)
+SVTDYVE(2855)
+RMGIRAL(2659)
+DDDGLDG(1931)
+SAARVFM(1723)
+QLYGARE(1716)
+NRSREMG(1707)
+IVPACRG(1646)
+RLVYVPS(1335)
+TGCSSIL(1166)
+AFHSGLT(1106)
+CSWTLER(996)
+GGGVGLL(912)
+WHAQVGF(852)
+ERRMGSC(844)
+SGVGATH(770)
+RLRWWGR(738)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:22870226</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>3168</BiopanningDataSetID>
+<Peptides>ADGIVGW(11489)
+SAGFAME(5173)
+LAAGAVW(3140)
+VTPHTGF(1172)
+GAHVAGG(672)
+LTACTGF(660)
+LGWAVLD(506)
+GTASVGF(444)
+SLGWAVP(355)
+GVGWAVP(344)
+AVGWAVP(336)
+GPGMALE(324)
+PASLVGF(300)
+SAGWALP(293)
+EVGWAVH(272)
+LNSMVGF(226)
+VGWAVLE(222)
+QMPNLGF(215)
+LVGWALS(202)
+SAGWALE(201)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:22870226</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>3169</BiopanningDataSetID>
+<Peptides>ADGIVGW(65003)
+SAGFAME(6630)
+VGWAVLE(2409)
+VTPHTGF(2366)
+LAAGAVW(2364)
+SAGVAME(2242)
+ADGIVGG(1009)
+EVGWAVH(905)
+WVGWAVQ(834)
+LGWAVLD(768)
+AVGWAVP(536)
+AGWAVLE(469)
+LVGWALS(453)
+SLGWAVP(445)
+GAHVAGG(413)
+LTACTGF(368)
+GVGFALD(362)
+GVGFALE(349)
+RVSAEVW(346)
+LAGWALD(337)</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:22870226</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>3258</BiopanningDataSetID>
+<Peptides>CPRIWADSC(12)[4.84]
+CTYLNSAKC(10)[4.63]</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:28783899</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>3339</BiopanningDataSetID>
+<Peptides>CTDQTPYVC(2/11)[1.42 ± 0.12]
+CTDMTPGAC(1/11)[2.24 ± 0.14]
+CDRTPYRVC(1/11)[0.14 ± 0.03]
+CFDATPHVC(1/11)[NA]
+CTDGTPHAC(1/11)[1.41 ± 0.11]
+CDRTPGRPC(1/11)[0.13]
+CTDKTPGFC(1/11)[2.10 ± 0.08]
+CSDRTPYMC(1/11)[0.33]
+CTDRTPWAC(1/11)[1.30 ± 0.13]
+CDATPPRLC(1/11)[0.95 ± 0.05]</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:29954402</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>3360</BiopanningDataSetID>
+<Peptides>KHRFNKD(2)[1.62 ± 0.23]
+PIISRAT(2)[0.15 ± 0.02]
+WSMRGTT(1)[NT]
+PGPSTTS(1)[NT]
+SKPLHKM(1)[NT]
+HRRPSRS(1)[NT]
+QISSLRA(1)[NT]
+WTDPHPP(1)[NT]
+HLAPAQY(1)[NT]</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>3361</BiopanningDataSetID>
+<Peptides>CPLSPSHEC(5)[0.08 ± 0.03]
+CAAPSPRNC(1)[NT]
+CPRTEKRRC(1)[NT]
+CQRSGKPSC(1)[NT]
+CPAGADWPC(1)[NT]
+CEPTSHFHC(1)[NT]
+CSSGSDYTC(1)[NT]</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>3431</BiopanningDataSetID>
+<Peptides>ACPMNESKFC(12/22)[29.1]
+ACPSNPSKFC(6/22)[32.1]
+ACPKNPNKFC(2/22)[31.4]</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:30262856</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item><Item><BiopanningDataSetID>3457</BiopanningDataSetID>
+<Peptides>CVPSKPGLC[60]</Peptides>
+<Motif></Motif>
+<Unique_Sequence_Number></Unique_Sequence_Number>
+<Experimental_Method></Experimental_Method>
+<Rounds_of_Panning></Rounds_of_Panning>
+<Reference>PMID:31152222</Reference>
+<Target_Name>Not determined.</Target_Name>
+<Template_Name>Not determined.</Template_Name>
+<Structure_of_Target_Template_Complex>Not determined.</Structure_of_Target_Template_Complex>
+<Structure_of_Target_Peptide_Complex>Not determined.</Structure_of_Target_Peptide_Complex>
+<Library_Name>Not determined.</Library_Name>
+<Affinity_Measurement_Method></Affinity_Measurement_Method>
+<Affinity_Measurement_Description></Affinity_Measurement_Description>
+<Brief_Description></Brief_Description>
+<BiopanningDataSet_Comments></BiopanningDataSet_Comments>
+</Item></BiopanningDataSet></result>
