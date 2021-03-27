@@ -116,7 +116,7 @@ plot(utLinv$layout, cex=0.3, pch=16, col=cols3*1+1)
 dev.off()
 plot3d(call3_0,  cex=.3)
 
-calls3i=list(calls3[1:1370], calls[1371:2742])
+calls3i=list(calls3[1:1370], calls3[1371:2742])
 fcalls3=fl[glo_gbm %in% calls3]
 names(fcalls3)=glo_gbm[glo_gbm %in% calls3]
 fcalls3=fcalls3[calls3]
