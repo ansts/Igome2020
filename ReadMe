@@ -1,3 +1,6 @@
 This project handles the sequencing data for public IgM igome and GBM IgM igome.
-
-L0 is an adjacency list of 1 326 682 sequences (from the pull of 3 439 654) 
+glo_gbm_ordered contains 3 790 522 mimotope sequences and fl-order contains their codes - 1 for gobal repertoire in healthy, 2 for repertoire of GBM patients and 3 for sequences
+common for both groups.
+L0 is an adjacency list of 1 326 682 sequences (from the pull of 3 790 522) and it contains 3 439 654 adjacent sequences. Adjacency is defeined by LCS distance of less than 3.
+Linv is incerted adjacency list where the adjacency of all 3 439 654 sequnces to the sample of 1 326 682 is shown. The smaller set is used as a reference set defining the nature 
+of these vicinities (the type of adjacent sequences) for a crude image of the graph of mimotopes connected by sequence similarities.
