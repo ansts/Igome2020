@@ -61,11 +61,12 @@ t0Linv=y
 rm(y)
 
 tLinv=sweep(t0Linv, 2, colMeans(tLinv), "/")
+
 LEinv=melt(Linv)
-Gall1third=graph_from_edgelist(as.matrix(LEinv), directed = F)
+Gall1third=graph_from_edgelist(as.matrix(LEinv), directed = F) #partial graph of the mimotope library
 Gall1third=simplify(Gall1third)
 V=names(V(Gall1third))
-Gall1third=set_vertex_attr(Gall1third, "Group", value=fl[glo_gbm %in% V])
+Gall1third=set_vertex_attr(Gall1third, "Group", value=fl[glo_gbm %in% V])  # add a vertex attribute indicating the GBm, healthy or common category
 save(Gall1third, file="Gall1third")
 cGall1=components(Gall1third)
 fcGall1=which(cGall1$csize>5 & cGall1$csize<1e6)
@@ -73,30 +74,21 @@ Gall1_frags=lapply(fcGall1,function(i){
   v=names(cGall1$membership)[cGall1$membership==i]
 })
 pG=table(fl)[2]/length(fl)
-Gall1_frags_pG=sapply(seq_along(Gall1_frags), function(i){
-  l=Gall1_frags[[i]]
-  f=fl[glo_gbm %in% l]
+Gall1_frags_pG=sapply(seq_along(Gall1_frags), function(i){   # isolate the small components of the graph 
+  l=Gall1_frags[[i]]                                         # and test if the number of GBM igome sequences 
+  f=fl[glo_gbm %in% l]                                       # is significantly different from the overall distribution
   n=sum(f==2)
   print(c(n, length(l)))
   p=binom.test(n,length(l),pG)
   return(p$p.value)
 })
-Gall1_frags_pG=p.adjust(Gall1_frags_pG)
+Gall1_frags_pG=p.adjust(Gall1_frags_pG)                # no small fragment has significantly different number of GBM mimotopes
 
-Gall1_3main=induced.subgraph(Gall1third, names(cGall1$membership[cGall1$membership==1]))
-write.graph(Gall1_3main, file = "Gall1_3main.graphml", format = "graphml")
+Gall1_3main=induced.subgraph(Gall1third, names(cGall1$membership[cGall1$membership==1])) # take the giant component
+write.graph(Gall1_3main, file = "Gall1_3main.graphml", format = "graphml")             
 save(Gall1_3main, file = "Gall1_3main")
 
-trGall1m=transitivity(Gall1_3main,type="local")
-badTr=trGall1m==0 | is.na(trGall1m)
-dGall1m=degree(Gall1_3main, mode="all")
-
-pdf(file="TrxDeg_Gall1m.pdf", width = 10, height = 10)
-plot((dGall1m[!badTr]),(trGall1m[!badTr]), cex=0.3)
-dev.off()
-
-
-clqG1m=max_cliques(Gall1_3main,min=4)
+clqG1m=max_cliques(Gall1_3main,min=4)       # find all maximal cliques in the giant component
 save(clqG1m, file="clqG1m")
 
 length(clqG1m)
@@ -111,7 +103,6 @@ names(fl)=glo_gbm
 fflclq=fl[names(flclq)]
 tff=t(table(fflclq,flclq))
 
-
 clGBM=tff[,2]>((tff[,1]+tff[,3])*3)
 clGBM=clqG1mn[clGBM]
 clGBM=clGBM[order(lengths(clGBM),decreasing = T)]
@@ -123,7 +114,6 @@ clovrlpup=clovrlp[lengths(clovrlp)>6]
 
 clnonGBM=clqG1mn[(tff[,2]+tff[,3])==0]
 clnonGBMup=clnonGBM[lengths(clnonGBM)>4]
-
 GBMcalls=bestSeq(clGBM)
 GBMclls_d=stayAway(GBMcalls,d=5)
 
@@ -200,7 +190,6 @@ i=sample(i)
 seqtoorder=seqtoorder[i,]
 colnames(seqtoorder)=c("Sequence","Group")
 write.csv(seqtoorder, file="seqtoorder.csv")
-
 
 #Visualization
 
